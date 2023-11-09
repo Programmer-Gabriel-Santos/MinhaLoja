@@ -3,7 +3,7 @@
 
 <br>
  
- ## Plataforma para criação e gestão de lojas físicas e virtuais para pequenos comércios
+ ### Plataforma para criação e gestão de lojas físicas e virtuais para pequenos comércios
 
 <br>
 
