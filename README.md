@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Programmer-Gabriel-Santos/MinhaLoja/65adeeee3d390bb0afd050272784a54fde6f0d37/logo.png" width="350" height="100" alt="MinhaLoja">
 
 <br>
-
+ 
  ## Plataforma para criação e gestão de lojas físicas e virtuais para pequenos comércios
 
 <br>
