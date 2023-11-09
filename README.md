@@ -27,10 +27,10 @@ Você pode dar seu estilo a sua loja virtual, você poderá personalizar as core
 <br>
 #### Página principal
 <div  style="display: flex; flex-wrap: wrap;">
- <img src="https://raw.githubusercontent.com/Programmer-Gabriel-Santos/MinhaLoja/4aeb4479a0cc75a8f085e890e2d3b733b9a0c846/Captura%20de%20tela%20de%202023-11-09%2018-38-09.png" width="500" height="300" alt="MinhaLoja">
+ <img src="https://raw.githubusercontent.com/Programmer-Gabriel-Santos/MinhaLoja/4aeb4479a0cc75a8f085e890e2d3b733b9a0c846/Captura%20de%20tela%20de%202023-11-09%2018-38-09.png" width="400" height="300" alt="MinhaLoja">
  <img src="https://raw.githubusercontent.com/Programmer-Gabriel-Santos/MinhaLoja/332b8450a202c3a5433dc3287fd7baa70666c8b5/captura.png" width="500" height="300" alt="MinhaLoja">
- <img src="https://raw.githubusercontent.com/Programmer-Gabriel-Santos/MinhaLoja/4aeb4479a0cc75a8f085e890e2d3b733b9a0c846/Captura%20de%20tela%20de%202023-11-09%2018-38-42.png" width="500" height="300" alt="MinhaLoja">
-  <img src="https://raw.githubusercontent.com/Programmer-Gabriel-Santos/MinhaLoja/4aeb4479a0cc75a8f085e890e2d3b733b9a0c846/Captura%20de%20tela%20de%202023-11-09%2018-39-19.png" width="500" height="300" alt="MinhaLoja">
+ <img src="https://raw.githubusercontent.com/Programmer-Gabriel-Santos/MinhaLoja/4aeb4479a0cc75a8f085e890e2d3b733b9a0c846/Captura%20de%20tela%20de%202023-11-09%2018-38-42.png" width="400" height="300" alt="MinhaLoja">
+  <img src="https://raw.githubusercontent.com/Programmer-Gabriel-Santos/MinhaLoja/4aeb4479a0cc75a8f085e890e2d3b733b9a0c846/Captura%20de%20tela%20de%202023-11-09%2018-39-19.png" width="400" height="300" alt="MinhaLoja">
 </div>
 
 #### Dashboard
