@@ -24,7 +24,7 @@ Você pode dar seu estilo a sua loja virtual, você poderá personalizar as core
 
 ### Confira algumas imagens abaixo
 
-<br>
+
 #### Página principal
 <div  style="display: flex; flex-wrap: wrap;">
  <img src="https://raw.githubusercontent.com/Programmer-Gabriel-Santos/MinhaLoja/4aeb4479a0cc75a8f085e890e2d3b733b9a0c846/Captura%20de%20tela%20de%202023-11-09%2018-38-09.png" width="400" height="300" alt="MinhaLoja">
