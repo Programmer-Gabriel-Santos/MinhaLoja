@@ -46,5 +46,5 @@ Você pode dar seu estilo a sua loja virtual, você poderá personalizar as core
 
 #### Loja criada:
 
-<img src="https://raw.githubusercontent.com/Programmer-Gabriel-Santos/MinhaLoja/4aeb4479a0cc75a8f085e890e2d3b733b9a0c846/Captura%20de%20tela%20de%202023-11-09%2018-57-11.png" width="400" height="300" alt="MinhaLoja">
+<img src="https://raw.githubusercontent.com/Programmer-Gabriel-Santos/MinhaLoja/4aeb4479a0cc75a8f085e890e2d3b733b9a0c846/Captura%20de%20tela%20de%202023-11-09%2018-57-11.png" width="600" height="400" alt="MinhaLoja">
  
