@@ -22,6 +22,28 @@ Você pode dar seu estilo a sua loja virtual, você poderá personalizar as core
 <br>
 
 
+### Tecnologias utlizadas
+
+
+#### Backend
+
+
+- TypeScript
+- NodeJs
+- Express
+- Knex
+- bcryptjs
+- Docker
+
+#### FrontEnd
+
+- Typescript
+- Next
+- Tailwind
+- shadcn/ui
+- zod
+- Zustand
+
 ### Confira algumas imagens abaixo
 
 
