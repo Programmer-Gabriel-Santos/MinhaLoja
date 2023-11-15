@@ -9,7 +9,7 @@
 
 ### Sobre
 
-A ideia começou com a criação de um gerenciador de estoque, durante o desenvolvimento e falando com conhecidos que possuem pequenas lojas, percebi que havia espaço para uma aplicação "mais interessante" surgir. Com a nescessidade dos pequenos lojistas da região em mente chegamos a fase final do desenvolvimento da plataforma.
+A ideia começou com a criação de um gerenciador de estoque, durante o desenvolvimento e ao conversar com lojistas da região, percebi que havia espaço para uma aplicação "mais interessante" surgir. Com a nescessidade dos pequenos lojistas da região em mente, chegamos a fase final(MVP) do desenvolvimento da plataforma.
 
 <br>
 
@@ -18,6 +18,7 @@ A ideia começou com a criação de um gerenciador de estoque, durante o desenvo
 
 Permite a gestão de uma loja física "se existir" e a criação de uma loja virtual!
 Você pode dar seu estilo a sua loja virtual, você poderá personalizar as cores, o logo, os cards e os textos de rodapé.
+A MinhaLoja também trás a possibilidade do usuário instalar um aplicativo(PWA) da loja criada através da plataforma.
 
 <br>
 
